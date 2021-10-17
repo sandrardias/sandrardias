@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sandrardias!
-- 👀 I have completed the Google Data Analytics Professional Certificate.
 - 🌱 I’m currently learning Python!
 
 <!---
