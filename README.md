@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sandrardias
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @sandrardias!
+-   I have completed the Google Data Analytics Professional Certificate.
+- 🌱 I’m currently learning Python!
 
 <!---
 sandrardias/sandrardias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
